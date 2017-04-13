@@ -1,15 +1,15 @@
-baseurl = "https://nicodoggie.github.io/orferitheri"
+baseurl = "https://nicodoggie.github.io/"
 languageCode = "en-us"
 title = "Orferitheri Language"
 theme = "hugo-steam-theme"
-disqusShortname = "spf13"
+disqusShortname = ""
 # Enable Google Analytics be inserting your tracking code
 googleAnalytics = ""
 # Number of posts per page
 paginate = 10
 
 [params]
-	title = "Orferitheri Language"
+	title = "Orferithri Language"
 	subtitle = "Language of the Orferi People"
 	copyright = "Released under the MIT license."
 
