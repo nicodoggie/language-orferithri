@@ -1,2 +1,5 @@
 public
 themes
+.projectile
+.dir-locals.el
+.yarn-integrity

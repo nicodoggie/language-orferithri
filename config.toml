@@ -18,8 +18,8 @@ paginate = 10
 
 	# Link custom assets relative to /static
 	favicon   = "favicon.ico"
-	customCSS = []
-	customJS  = []
+	customCSS = ["leipzig/dist/leipzig.min.css"]
+	customJS  = ["leipzig/dist/leipzig.min.js","scripts.js"]
 
 	name = "Nico Suarez"
 	description = "Notes, grammar and culture of the Orferi People"

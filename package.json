@@ -1,0 +1,12 @@
+{
+  "name": "language-orferithri",
+  "version": "0.0.1",
+  "description": "Static site for the orferithri language",
+  "main": "index.js",
+  "repository": "https://github.com/nicodoggie/language-orferithri",
+  "author": "Nico Suarez",
+  "license": "CC-BY-SA 4.0",
+  "dependencies": {
+    "leipzig": "^0.8.1"
+  }
+}
