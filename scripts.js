@@ -1,3 +1,11 @@
 document.addEventListener('DOMContentLoaded', function () {
-    Leipzig().gloss();
+    var leipzig  = Leipzig({
+        firstLineOrig: true,
+        lastLineFree: true,
+        spacing: true
+    });
+    leipzig.addAbbreviations({
+        NEGEXIST: "negative existential"
+    });
+    leipzig.gloss();
 });
