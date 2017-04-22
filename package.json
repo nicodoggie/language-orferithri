@@ -7,6 +7,11 @@
   "author": "Nico Suarez",
   "license": "CC-BY-SA 4.0",
   "dependencies": {
+    "browserify": "^14.3.0",
+    "gulp": "^3.9.1",
     "leipzig": "^0.8.1"
+  },
+  "scripts": {
+    "build": "gulp"
   }
 }
