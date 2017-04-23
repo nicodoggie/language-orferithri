@@ -5,7 +5,9 @@ document.addEventListener('DOMContentLoaded', function () {
         spacing: true
     });
     leipzig.addAbbreviations({
-        NEGEXIST: "negative existential"
+        NEGEXIST: "negative existential",
+        HSY: "hearsay evidential",
+        CONT: "continuous aspect"
     });
     leipzig.gloss();
 });

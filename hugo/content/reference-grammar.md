@@ -55,9 +55,9 @@ with the exception of a few dialects.
 </dl>
 
 <div class="orferi-gloss" data-gloss>
-  <p>jaχiroθere momoθanoje</p>
-  <p>ja- ʔiro- θere momoθa -no -je</p>
-  <p>HSY- NEGEXIST- father momoθa -NOM -OBJ</p>
+  <p>jaχiroθereno momoθanoje</p>
+  <p>ja- ʔiro- θere -no momoθa -no -je</p>
+  <p>HSY- NEGEXIST- father -NOM momoθa -NOM -OBJ</p>
   <p class="gloss__line--free">I heard, Momotha has no father.<p>
 </div> 
 
