@@ -1,5 +1,6 @@
 public
 themes
+node_modules
 .projectile
 .dir-locals.el
 .yarn-integrity
