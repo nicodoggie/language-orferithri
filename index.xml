@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Released under Creative Commons [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)</copyright>
-    <lastBuildDate>Fri, 14 Apr 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Apr 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://nicodoggie.github.io/language-orferithri/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Orferithri Reference Grammar</title>
+      <link>https://nicodoggie.github.io/language-orferithri/reference-grammar/</link>
+      <pubDate>Mon, 24 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://nicodoggie.github.io/language-orferithri/reference-grammar/</guid>
+      <description>Introduction Phonology Vowels  /a/ open front unrounded /e/ mid front unrounded /i/ close front unrounded /o/ mid back rounded  Consonant Inventory     Bilabial Linguolabial Post-alveolar Palatal Uvular     Stop     ʔ   Nasal m  n     Tap/Trill   r     Fricatives ɸ, β θ̼, ð̼ ʃ, ʒ  χ   Approximants   j      Stops The orferi, the beings who speak orferithri, have two primary differences in comparison to humans in terms of speech articulators: their lips are rigid and are not airtight, and they do not have teeth.</description>
+    </item>
     
     <item>
       <title>Construction Notes</title>
@@ -18,7 +27,8 @@
       <pubDate>Fri, 14 Apr 2017 00:00:00 +0000</pubDate>
       
       <guid>https://nicodoggie.github.io/language-orferithri/construction-notes/</guid>
-      <description>Phonology Vowels  /a/ open front rounded /e/ mid front rounded /i/ close front rounded  Consonant Inventory     Bilabial Linguolabial Post-alveolar Palatal Uvular     Stop     ʔ   Nasal m  n     Trill   r     Fricatives ɸ, β θ̼, ð̼ ʃ, ʒ  χ   Approximants   j      Stops The orferi, the beings who speak orferithri, have two primary differences in comparison to humans in terms of speech articulators: their lips are rigid and are not airtight, and they do not have teeth.</description>
+      <description>Phonology Vowels I&amp;rsquo;m thinking a 4-vowel system here, with no fancy vowel harmony and things, just these:
+ /a/ open front unrounded /e/ mid front unrounded /o/ mid back rounded /i/ close front unrounded  I was thinking maybe some vowel nasalization when in close proximity to the nasals? But I&amp;rsquo;m kind of not liking the sound it makes for this language. Maybe in a child language, when I start doing that sort of thing.</description>
     </item>
     
   </channel>
