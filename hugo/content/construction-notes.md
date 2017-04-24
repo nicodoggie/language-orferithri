@@ -167,6 +167,8 @@ that would properly have example sentences and proper definitions and senses for
   <dd>to float</dd>
   <dt>?arɸe<dt>
   <dd>tomorrow</dd>
+  <dt><dt>
+  <dd>tomorrow</dd>
 </dl>
 
 # Test sentences
@@ -225,4 +227,11 @@ that would properly have example sentences and proper definitions and senses for
   <p>ʔe- riʃβa χarɸe -no riʃβa -no -ye</p>
   <p>FUT- shine tomorrow -NOM shine -NOM -OBJ</p>
   <p class="gloss__line--free">Tomorrow, the sun will shine.</p>
+</div>
+
+<div class="orferi-gloss" data-gloss>
+  <p class="gloss__line--free">θanariʃβa riʃβano</p>
+  <p>θana- riʃβa riʃβa -NOM</p>
+  <p>INT- shine shine -NOM</p>
+  <p class="gloss__line--free">The sun shines brightly.</p>
 </div>
