@@ -214,9 +214,9 @@ that would properly have example sentences and proper definitions and senses for
 </div>
 
 <div class="orferi-gloss" data-gloss>
-  <p class="gloss__line--free">ʔeramiʃβa χarɸeno riʃβanoye</p>
-  <p>ʔe- r&lt;am&gt;iʃβa χarɸe -no riʃβa -no -ye</p>
-  <p>FUT- &lt;am&gt;shine tomorrow -NOM shine -NOM -OBJ</p>
+  <p class="gloss__line--free">ʔeramiʃβa riʃβano χarɸenoβi</p>
+  <p>ʔe- r&lt;am&gt;iʃβa χarɸe -no riʃβa -no -βi</p>
+  <p>FUT- &lt;ACTFOC&gt;shine tomorrow -NOM shine -NOM -SBJ</p>
   <p class="gloss__line--free">The sun will shine tomorrow.</p>
 </div>
 
@@ -224,5 +224,5 @@ that would properly have example sentences and proper definitions and senses for
   <p class="gloss__line--free">ʔeriʃβa χarɸeno riʃβanoye</p>
   <p>ʔe- riʃβa χarɸe -no riʃβa -no -ye</p>
   <p>FUT- shine tomorrow -NOM shine -NOM -OBJ</p>
-  <p class="gloss__line--free">The sun will shine tomorrow.</p>
+  <p class="gloss__line--free">Tomorrow, the sun will shine.</p>
 </div>
