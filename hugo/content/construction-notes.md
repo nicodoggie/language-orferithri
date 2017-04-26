@@ -100,6 +100,10 @@ followed by a _voiced fricative_.
 
 ## Phonotactics
 
+## Making sense of the HEAD
+
+
+
 ## Verbs
 
 At the moment, I am of a mind that most, if not all, lexical items in the language are 
@@ -131,7 +135,7 @@ that would properly have example sentences and proper definitions and senses for
   <dt>βa</dt>
   <dd>to drink</dd>
   <dd>to be soaked in a liquid</dd>
-  <dt>eʒi</dt>
+  <dt>ʔeʒi</dt>
   <dd>to ferment</dd>
   <dd>to be turned into wine</dd>
   <dt>ɸero</dt>
@@ -152,8 +156,6 @@ that would properly have example sentences and proper definitions and senses for
   <dt>riʃβa</dt>
   <dd>the sun</dd>
   <dd>to shine</dd>
-  <dd>to project light</dd>
-  <dd>to be the center of attention</dd>
   <dt>?orɸe</dt>
   <dd>to wake</dd>
   <dd>to be sentient</dd>
@@ -230,8 +232,18 @@ that would properly have example sentences and proper definitions and senses for
 </div>
 
 <div class="orferi-gloss" data-gloss>
-  <p class="gloss__line--free">θanariʃβa riʃβano</p>
+  <p class="gloss__line--free">θanariʃβariʃβa riʃβano</p>
   <p>θana- riʃβa riʃβa -NOM</p>
   <p>INT- shine shine -NOM</p>
   <p class="gloss__line--free">The sun shines brightly.</p>
+</div>
+
+
+_Marking attributes as something the subject possesses:_
+
+<div class="orferi-gloss" data-gloss>
+  <p class="gloss__line--free">riʃβa θanariʃβama riʃβano </p>
+  <p>riʃβa θana- riʃβa -ma riʃβa -no</p>
+  <p>shine INT- shine -POSS shine -NOM</p>
+  <p class="gloss__line--free">The bright sun shines.</p>
 </div>
