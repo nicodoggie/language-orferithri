@@ -7,7 +7,8 @@ document.addEventListener('DOMContentLoaded', function () {
     leipzig.addAbbreviations({
         NEGEXIST: "negative existential",
         HSY: "hearsay evidential",
-        INT: "intensifier"
+        INT: "intensifier",
+        NOM: "nominalizer"
     });
     leipzig.gloss();
 });

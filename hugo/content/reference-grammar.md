@@ -2,7 +2,7 @@
 menu = "main"
 title = "Orferithri Reference Grammar"
 description = "Reference grammar of the language of the Orferi people"
-date = "2017-04-24"
+date = "2017-04-27"
 +++
 
 # Introduction
@@ -18,13 +18,13 @@ date = "2017-04-24"
 
 ## Consonant Inventory
 
-|               | Bilabial | Linguolabial | Post-alveolar | Palatal | Uvular |
-| ------------- | :------: | :----------: | :-----------: | :-----: | :----: |
-| Stop          |          |              |               |         |    ʔ   |
-| Nasal         |    m     |              |       n       |         |        |
-| Tap/Trill     |          |              |       r       |         |        |
-| Fricatives    |   ɸ, β   |     θ̼, ð̼     |     ʃ,  ʒ     |         |    χ   |
-| Approximants  |          |              |       j       |         |        |
+|               | Bilabial | Linguolabial | Post-alveolar | Uvular | Glottal |
+| ------------- | :------: | :----------: | :-----------: | :----: | :-----: |
+| Stop          |          |              |               |        | ?       |
+| Nasal         | m        |              | n             |        |         |
+| Tap/Trill     |          |              | r             |        |         |
+| Fricatives    | ɸ, β     | θ̼, ð̼         | ʃ,  ʒ         | χ      |         |
+| Approximants  |          |              | j             |        |         |
 
 ### Stops
 
@@ -41,9 +41,9 @@ bilabial ones could be easily replaced with linguolabials), with the notable exc
 of the uvular stop, it seems that the orferithri language does not incorporate these 
 sounds in its phonology.
 
-#### Uvular Stops 
+#### Glottal Stops 
 
-Uvular stops /ʔ/ are quite rare in the orferithri lexicon. They only occur on the onset 
+Glottal stops /ʔ/ are quite rare in the orferithri lexicon. They only occur on the onset 
 of the initial syllable, then is often lenited to a /χ/ if a prefix is added to the stem,
 with the exception of a few dialects.
 

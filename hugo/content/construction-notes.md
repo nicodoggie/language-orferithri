@@ -100,10 +100,6 @@ followed by a _voiced fricative_.
 
 ## Phonotactics
 
-## Making sense of the HEAD
-
-
-
 ## Verbs
 
 At the moment, I am of a mind that most, if not all, lexical items in the language are 
@@ -118,6 +114,30 @@ difference between the two as of yet) morphology I have.
 Default form of a stem is a *_stative_* form (verb that describes the current state of the subject).
 Statives are usually intransitive, and thus takes only one argument.
 
+### Verb Classes
+
+To make some sense of the verb inventory the language has, I think I ought to begin sorting 
+these verbs into semi-neat typological groups. Just note that in each category, though they 
+consist mostly of verbs representing semantic groups, some lexical items are sorted by their
+grammatical function as well.
+
+ - Stative
+ - Causative
+ - Cognitive
+ - Motion
+ 
+#### Stative Verbs
+
+Stative verbs are intransitive, and are usually used to define the state or an attribute of its argument.
+
+For example, in the sentence, _The person is wet._ 
+
+<div data-gloss class="orferi-gloss">
+  <p class="gloss__line--free">?aɸi χorɸeno</p>
+  <p>ʔaɸi ʔorɸe -no</p>
+  <p>wet person -NOM</p>
+  <p class="gloss__line--free">The sun shines.</p>
+</div>
 
 ### Some stems
 
@@ -242,8 +262,15 @@ that would properly have example sentences and proper definitions and senses for
 _Marking attributes as something the subject possesses:_
 
 <div class="orferi-gloss" data-gloss>
-  <p class="gloss__line--free">riʃβa θanariʃβama riʃβano </p>
+  <p class="gloss__line--free">riʃβa θanariʃβama riʃβano</p>
   <p>riʃβa θana- riʃβa -ma riʃβa -no</p>
   <p>shine INT- shine -POSS shine -NOM</p>
   <p class="gloss__line--free">The bright sun shines.</p>
+</div>
+
+<div class="orferi-gloss" data-gloss>
+  <p class="gloss__line--free"></p>
+  <p></p>
+  <p></p>
+  <p class="gloss__line--free">The sun is rising now.</p>
 </div>

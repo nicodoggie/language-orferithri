@@ -1,0 +1,15 @@
+with: std-ipa-features
+
+letters: p b t d m n r θ ð s z χ ʁ h a e i ʔ
+
+C = p b t d ʔ m n r
+P = p b t d ʔ
+N = m n
+S = s z h
+R = r
+V = a e i
+
+words: CV CVCV CVSV CVCV CVSV CVSCV CVRCV
+random-rate: 25
+filter: (.+)ʔ > \1h
+reject: (s|h)z ((p|b|t|d)(a|e|i)){2,}
