@@ -60,3 +60,6 @@ POoc. deisb̼̼a > Oo. tiʃβa > riʃβa
  - POoc. ei > OO. i
 
  - OO. t,d > r
+ 
+ # Conceptual Metaphors
+ -  The home is an extension of the self
