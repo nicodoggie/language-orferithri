@@ -1,5 +1,3 @@
-# Roots
-
 risbaː
  - noun
  - the sun
@@ -19,12 +17,20 @@ dahteː
 
 ?azhi:
  - to care for
- 
+
+?ate:
+ - noun
+ - "female" sex in the ternary biological gender system
+
+?are:
+ - noun
+ - "male" sex in the ternary biological gender system
+
 ʔaza:
  - noun
  - caretaker
- - third sex in the ternary biological gender
- 
+ - third sex in the ternary biological gender system
+  
 ?ita:
  - to plow without an implement
  
