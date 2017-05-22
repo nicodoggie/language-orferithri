@@ -33,6 +33,38 @@
   def:
     - to own
 
+- wordː "ˈba.ni"
+  cat: verb, stative
+  def:
+    - (1) to have roots
+    - (2) to be part of
+  examples:
+    - gloss:
+        - (1) "'bani dahteme"
+        - "{to have roots} dahteme"
+        - "A plant has roots."
+    - gloss:
+        - (2) "'bahani tanadehbe no"
+        - "{to be part of} {the family} -ABS"
+        - "I am part of the family."
+
+- word: dehbe
+  cat: noun
+  def:
+    - geometric circle
+    - a group
+
+- word: tana
+  cat: noun
+  def:
+    - home
+    - immediate family
+
+- word: tanadehbe
+  cat: noun
+  def:
+    - extended family
+
 - word: ba.ˈni
   cat: verb
   def:
@@ -43,6 +75,16 @@
   cat: verb
   def:
     - to eat
+
+ - word: it.ˈhi
+   cat: verb
+   def:
+     - to despise
+
+ - word: mar.ˈhi
+   cat: verb
+   def:
+     - to live
 
 - word: ˈris.ba
   cat: verb
@@ -101,10 +143,12 @@
   def:
     - to plow without an implement
  
-- word: bita
+- word: bi.ˈta
   cat: verb
   def:
     - to plow with an implement
+    - to work in an occupation
+
  
 - word: rerpa
   cat: noun
@@ -131,24 +175,35 @@
     - to come
 
 - word: daza
-  cat: nount
+  cat: noun
   def:
     - finger
     - stem directly connected to the leaf
     - ordinal one
   
-- word: peri
-  - to say with - words
+- word: pe.ˈri
+  cat: verb
+  def:
+    - to say with
+    - words
 
 - word: rara
-  - concrete thing
+  cat: noun
+  def:
+    - concrete thing
 
 - word: ʔina
-  - a question
+  cat: verb
+  def:
+    - a question
  
 - word: teha
-  - another thing
+  cat: noun
+  def:
+    - another thing
 
 - word: reti
+  cat: noun 
+  def:
+    - cat
 
-  - cat

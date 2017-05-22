@@ -20,6 +20,8 @@
 
 *"Now" is a slice of time*
 
+*Water is life*
+
 ## Verbs
 
 Most verbs have the final syllable ending in the close front unrounded vowel /i/, but simply note
@@ -71,6 +73,27 @@ having some agent change the state of the patient into the state described by th
   <p><PST.INC>{to be beautiful} barber A mother POSS Gio</p>
 </div>
 
+### Prodrop
+
+If the head is a di-valent stative, and the agent is first person, the pronoun may be dropped.
+
+<div data-gloss class="orferi-gloss">
+  <p class="gloss__line--free">I have become part of the family.</p>
+  <p>ˈba&lt;ha&gt;ni tanadehbe no</p>
+  <p>&lt;INC&gt;.{to be part of} {the family} -ABS</p>
+  <p>I have become part of the family</p>
+/div>
+
+The pronoun may also be kept, as an option, but it's more common in formal speech/writing
+
+<div data-gloss class="orferi-gloss">
+  <p class="gloss__line--free">I have become part of the family.</p>
+  <p>ˈbahani tanadehbe no ʔima</p>
+  <p>{to be part of} {the family} -ABS 1SG</p>
+  <p>I have become part of the family<./p>
+</div>
+
+
 ### Tense
 
 Past tense is encoded by replacing the final close front unrounded /i/ vowel with the 
@@ -92,9 +115,9 @@ marking also encoded by the word-final vowel
 An unmarked verb is patient focus, present ɡnomic:
 
 <div data-gloss class="orferi-gloss">
-  <p class="gloss__line--free">ʔazhi reti ma ʔiziʔo no</p>
+  <p class="gloss__line--free">ʔazhi reti ma ʔiziʔo</p>
   <p>ʔazhi reti ma ʔiziʔo  -∅</p>
-  <p>{to care for} cat -ABS  gio -ERG</p>
+  <p>{to care for} cat -ABS Gio -ERG</p>
   <p class="gloss__line--free">The cat is cared for by Gio.</p>
 </div>
 
@@ -139,7 +162,20 @@ to /a/. Irregular verbs typically retain their word-final vowel. In some words w
 _ri_, the nominalization prefix is shortened to simply me-. For example the the word _risba /ˈris.ba/_  which 
 means _to be bright_ when nominalized becomes the word for sun, _merisba /me.ˈris.ba/_ instead of _meririsba_.
 
-
 ## Nouns
 
-Nouns have a gender system that is described in the initial syllable's vowel. 
+### Definiteness and number
+
+Definiteness and number are encoded as a suffix on the noun. A noun unmarked for number is definite singular.
+
+ -me indefinite suffix
+ 
+
+Nouns have a gender system that is described in the initial syllable's 
+
+
+it'hi ʔezaheza marˈhimena ta diza
+
+I fucking work all day just to get shit when I get home!
+
+bibiˈta toha risbamena rire ʔatanaˈra rerpa pisre no
