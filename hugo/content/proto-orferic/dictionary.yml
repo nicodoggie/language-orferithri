@@ -1,92 +1,154 @@
 ---
 
-neshi:
+- word: ta.ˈma
+  cat: noun
+  def:
+    - mother
+    - sower of the seed
+
+- word: ʔazerada
+  cat: noun
+  def:
+    - barber
+
+- word: rada
+  cat: noun
+  def:
+    - leaf
+
+- word: ˈbeh.bi
+  cat: verb, stative
+  def:
+    - to be with ephemeral beauty
+    - used to describe beauty on a mortal/impermanent being
+
+- word: pisre
+  cat: noun
+  def:
+    - feces
+    - expletive
+
+- word: ˈba.ni
+  cat: verb
+  def:
+    - to own
+
+- word: ba.ˈni
+  cat: verb
+  def:
+    - to grow roots
+    - to take ownership
+
+- word: neshi
   cat: verb
   def:
     - to eat
 
-risba:
+- word: ˈris.ba
   cat: verb
   def:
     - to be sunny
+
+- word: ris.ˈba
+  cat: verb
+  def:
+    - to shine
+
+- word: me.ˈris.ba
+  cat: noun
+  def:
+    - the sun
     - a day
 
-pama:
+- word: pama
   cat: noun
   def:
     - seed
 
-ʔarpe:
+- word: ʔarpe
   cat: noun
   def:
     - sentient beinɡ
  
-dahte:
+- word: dahte
   cat: noun
   def:
     - saplinɡ
 
-ʔazhi:
+- word: ʔazhi
   cat: verb
   def:
     - to care for
 
-ʔate:
+- word: ʔate
   cat: noun
   def:
     - female sex in the ternary biological gender system
 
-ʔare:
+- word: ʔare
   cat: noun
   def:
     - male sex in the ternary biological gender system
 
-ʔaza:
+- word: ʔaza
   cat: noun
   def:
     - caretaker
     - third sex in the ternary biological gender system
   
-?ita:
-  - to plow without an implement
+- word: ʔita
+  cat: verb
+  def:
+    - to plow without an implement
  
-bita:
-  - to plow with an implement
+- word: bita
+  cat: verb
+  def:
+    - to plow with an implement
  
-rerpa:
-  - noun
-  - domesticated 4-legged pack animal
+- word: rerpa
+  cat: noun
+  def:
+    - domesticated 4-legged pack animal
  
-tazhi:
-  - verb
-  - to hit with considerable force
+- word: taz.ˈhi
+  cat: verb
+  def:
+    - to hit with considerable force
 
-pihi:
-  - to be beside
+- word: ˈpi.hi
+  cat: verb
+  def:
+    - to be beside
  
-tine:
+- word: tine
   - the ego
   - domicile
  
-tari:
-  - to come
+- word: ta.ˈri
+  cat: verb
+  def:
+    - to come
 
-daza:
-  - finger
-  - stem directly connected to the leaf
-  - ordinal one
+- word: daza
+  cat: nount
+  def:
+    - finger
+    - stem directly connected to the leaf
+    - ordinal one
   
-peri:
-  - to say with words
+- word: peri
+  - to say with - words
 
-rara:
+- word: rara
   - concrete thing
 
-ʔina:
+- word: ʔina
   - a question
  
-tehi:
+- word: teha
   - another thing
 
-reti:
+- word: reti
+
   - cat

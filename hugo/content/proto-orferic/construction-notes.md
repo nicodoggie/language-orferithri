@@ -14,6 +14,12 @@
 
 *The sun's rays are nourishment*
 
+*Circulatory organs are the center of emotion*
+
+*Taking ownership is taking root/planting*
+
+*"Now" is a slice of time*
+
 ## Verbs
 
 Most verbs have the final syllable ending in the close front unrounded vowel /i/, but simply note
@@ -39,6 +45,32 @@ Although a sizable number of these pairs exist in the language, there are a non-
 number of verbs that do not have these pairs, or have these pairs, but correspond to 
 actives and noun roots instead.
 
+### Valency
+
+Stative verbs are usually monovalent (intransitive), meaning it only takes one argument. There are some statives 
+however, that are _avalent_, meaning that these verbs do not take arguments (usually these are verbs describing 
+environmental background states like the weather). Statives take a patient whose state is being described 
+as an argument.
+
+Take for example the sentence _Gio's mother is beautiful_.
+
+<div data-gloss class="orferi-gloss">
+  <p class="gloss__line--free">ˈbeh.bi ta.ˈma ta ʔiziho</p>
+  <p>ˈbeh.bi ta.ˈma ta ʔiziho</p>
+  <p>{to be beautiful} mother POSS Gio</p>
+</div>
+
+These statives may also have their valency increased based on the voice that they take.
+For example, if the verb is inflected with the past inchoative, it takes the semantic meaning of
+having some agent change the state of the patient into the state described by the verb. 
+
+<div data-gloss class="orferi-gloss">
+  <p class="gloss__line--free">The barber made Gio's mother beautiful</p>
+  <p class="gloss__line--free">ˈbehah.ba azerada no ta.ˈma ta ʔiziho</p>
+  <p>ˈbe<ha>h.ba azerada no ta.ˈma ta ʔiziho</p>
+  <p><PST.INC>{to be beautiful} barber A mother POSS Gio</p>
+</div>
+
 ### Tense
 
 Past tense is encoded by replacing the final close front unrounded /i/ vowel with the 
@@ -57,38 +89,55 @@ Aspect marking and voice marking are intertwined in this language, and are encod
 infixes or prefixes attached to the verb. The infix that is inserted also depends upon the tense
 marking also encoded by the word-final vowel
 
-An unmarked verb is agent focus, present ɡnomic:
+An unmarked verb is patient focus, present ɡnomic:
 
 <div data-gloss class="orferi-gloss">
-  <p class="gloss__line--free">ʔazhi ʔiziʔo no reti ma</p>
-  <p>ʔazhi ʔiziʔo no reti ma</p>
-  <p>{to care for} gio -NOM cat -ACC</p>
-  <p class="gloss__line--free">Gio cares for the cat.</p>
+  <p class="gloss__line--free">ʔazhi reti ma ʔiziʔo no</p>
+  <p>ʔazhi reti ma ʔiziʔo  -∅</p>
+  <p>{to care for} cat -ABS  gio -ERG</p>
+  <p class="gloss__line--free">The cat is cared for by Gio.</p>
 </div>
+
+Prefixes are patient focus, and are able to encode certain aspects:
+
+| Tense   | Aspect      | Affixes  | Example       | Meaning              |
+| ------- | ----------- | -------- | ------------- | -------------------- |
+| past    | simple      | ʔa-      | ʔa.nes.ˈha    | ate                  |
+|         | habitual    | ʔa- HAB~ | ʔa.na.ˈnes.ha | was regularly eating |
+|         | proɡressive | ʔa- θa-  | ʔa.θa.ˈnes.ha | was eating           |
+| present | simple      |          | nes.hi        | eat                  |
+|         | habitual    | HAB~     | ne.ˈnes.hi    | is regularly eating  |
+|         | proɡressive | θi       | θi.ˈnes.hi    | is eating            |
+| future  | simple      | ʔe-      | ʔe.nes.ˈhe    | will eat             |
+|         | habitual    | ʔe- HAB~ | ʔe.ne.ˈnes.he | will regularly eat   |
+|         | proɡressive | ʔe- θe-  | ʔe.θe.ˈnes.he | will be eating       |
+
 
 <div data-gloss class="orferi-gloss">
-  <p class="gloss__line--free">It's sunny.</p>
-  <p class="gloss__line--free">ˈris.ba</p>
+  <p class="gloss__line--free">?ahazha reti ma ʔiziho</p>
+  <p>ʔa- ʔazha -PST reti ma ʔiziho -∅</p>
+  <p>PST.PFOC- {to care for} -PST cat -ABS gio -ERG</p>
+  <p class="gloss__line--free">The cat was cared for by gio.</p>
 </div>
 
-Prefixes are object focus:
-| past    | gnomic      | ʔa-      | ʔa.nes.ˈha    |
-|         | habitual    | ʔa- HAB~ | ʔa.na.ˈnes.ha |
-|         | proɡressive | ʔa- θa-  | ʔa.θa.ˈnes.ha |
-| present | ɡnomic      |          |               |
-|         | habitual    | HAB~     | ne.ˈnes.hi    |
-|         | proɡressive | θi       | θi.ˈnes.hi    |
-| future  | ɡnomic      | ʔe-      | ʔe.nes.ˈhe    |
-|         | habitual    | ʔe- HAB~ | ʔe.ne.ˈnes.he |
-|         | proɡressive | ʔe- θe-  | ʔe.θe.ˈnes.he |
-   
+Infixes are agent focus, and encode some aspects as well as some moods.
 
-| present |   | ʔi- |
-| future  |   | ʔe- |
+| Tense   | Aspect/Mood | Affixes  | Example                          | Meaning              |
+| ------- | ----------- | -------- | -------------------------------- | -------------------- |
+| past    | inchoative  | -ha-     | nehas.ˈha                        | started to eat       |
+|         | durative    | -paha-   | nepahas.ˈha nito no ʔemerisba ha | Nito ate yesterday   |
+| present | inchoative  | -hi-     | nehis.ˈhi                        | starting to eat      |
+|         | durative    | -pihi-   | nepihis.ˈhi nito no              |                      |
+| future  | inchoative  | -he-     | nehes.ˈhe                        | will start eating    |
+|         | durative    | -pehe-   | nepehes.ˈhe                      |                      |
 
 
+### Nominalization
 
-
+Stative verbs may be nominalized by adding the prefix meri-, then changing the word-final /i/ in regular verbs
+to /a/. Irregular verbs typically retain their word-final vowel. In some words which begin with the syllable 
+_ri_, the nominalization prefix is shortened to simply me-. For example the the word _risba /ˈris.ba/_  which 
+means _to be bright_ when nominalized becomes the word for sun, _merisba /me.ˈris.ba/_ instead of _meririsba_.
 
 
 ## Nouns

@@ -7,9 +7,6 @@ Some time later, the neighbor saw the donkey-beater beating his son in a field. 
 
 
 There was once a man who beat his donkey every day.
-ʔatatazhi rerpa noro ʔarpe nono risbarisba
-ʔa- ta- tazhi rerpa noro ʔarpe pano risbarisba
-EXIST- REP- {to hit with force} {pack animal} PRS.POSS {sentient being} PST.AGENT daily
 
 One day, a second man, who was a neighbor, came to the donkey-beater and asked, "Why do you beat your donkey?"
 
